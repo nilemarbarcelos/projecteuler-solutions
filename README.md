@@ -1,0 +1,1 @@
+My solutions for ProjectEuler.net in Java
